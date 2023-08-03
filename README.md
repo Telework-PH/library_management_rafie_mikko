@@ -1,1 +1,2 @@
-# library_management_rafie_mikko
+# TeleworkPH Final Project
+Arjay Mikko Virges and Rafie Luartes
